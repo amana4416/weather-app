@@ -31,33 +31,10 @@ Learning project from [The Odin Project](https://www.theodinproject.com/lessons/
 * Switch between imperial and metric systems.
 * Responsive design.
 
-### Built With
-
-#### Technologies
-
-* JavaScri
 
 
 
 
-## Usage
-
-* Open `./dist/index.html` file with browser.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
-
-<!-- AUTHORS -->
-## Authors
-
-[Aman A]((https://github.com/amana4416)) 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
